@@ -1,0 +1,30 @@
+{
+	"header": {
+		"source": "a.pdf",
+		"version": "pdfcpu v0.6.0 dev",
+		"creation": "2023-12-18 00:28:14 CST",
+		"title": "The Go Programming Language ",
+		"author": "Alan A. A. Donovan",
+		"creator": "UnknownApplication",
+		"producer": "pdfcpu v0.6.0 dev"
+	},
+	"bookmarks": [
+		{
+			"title": "1. Tutorial",
+			"page": 1,
+			"kids": [
+				{
+					"title": "1.1. Hello, World",
+					"page": 1
+				},
+				{
+					"title": "1.2. Command-Line Arguments",
+					"page": 4
+				}
+			]
+		}
+	],
+	"settings": {
+		"offset": 19
+	}
+}

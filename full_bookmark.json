@@ -1,0 +1,187 @@
+{
+	"header": {
+		"source": "ch1.pdf",
+		"version": "pdfcpu v0.6.0 dev",
+		"creation": "2023-12-24 21:07:42 CST",
+		"title": "The Go Programming Language ",
+		"author": "Alan A. A. Donovan",
+		"creator": "UnknownApplication",
+		"producer": "GPL Ghostscript 9.10; modified using iText® 5.5.6 ©2000-2015 iText Group NV (AGPL-version)"
+	},
+	"bookmarks": [
+		{
+			"title": "Contents",
+			"page": 8
+		},
+		{
+			"title": "Preface",
+			"page": 12,
+			"kids": [
+				{
+					"title": "The Origins of Go",
+					"page": 13
+				},
+				{
+					"title": "The Go Project",
+					"page": 14
+				},
+				{
+					"title": "Organization of the Book",
+					"page": 16
+				},
+				{
+					"title": "Where to Find More Information",
+					"page": 17
+				},
+				{
+					"title": "Acknowledgments",
+					"page": 18
+				}
+			]
+		},
+		{
+			"title": "1. Tutorial",
+			"page": 20,
+			"kids": [
+				{
+					"title": "1.1. Hello, World",
+					"page": 20
+				},
+				{
+					"title": "1.2. Command-Line Arguments",
+					"page": 23
+				},
+				{
+					"title": "1.3. Finding Duplicate Lines",
+					"page": 27
+				},
+				{
+					"title": "1.4. Animated GIFs",
+					"page": 32
+				},
+				{
+					"title": "1.5. Fetching a URL",
+					"page": 34
+				},
+				{
+					"title": "1.6. Fetching URLs Concurrently",
+					"page": 36
+				},
+				{
+					"title": "1.7. A Web Server",
+					"page": 38
+				},
+				{
+					"title": "1.8. Loose Ends",
+					"page": 42
+				}
+			]
+		},
+		{
+			"title": "Index",
+			"page": 46,
+			"kids": [
+				{
+					"title": "A",
+					"page": 46
+				},
+				{
+					"title": "B",
+					"page": 47
+				},
+				{
+					"title": "C",
+					"page": 47
+				},
+				{
+					"title": "D",
+					"page": 48
+				},
+				{
+					"title": "E",
+					"page": 49
+				},
+				{
+					"title": "F",
+					"page": 50
+				},
+				{
+					"title": "G",
+					"page": 51
+				},
+				{
+					"title": "H",
+					"page": 51
+				},
+				{
+					"title": "I",
+					"page": 52
+				},
+				{
+					"title": "J",
+					"page": 52
+				},
+				{
+					"title": "K",
+					"page": 52
+				},
+				{
+					"title": "L",
+					"page": 52
+				},
+				{
+					"title": "M",
+					"page": 53
+				},
+				{
+					"title": "N",
+					"page": 54
+				},
+				{
+					"title": "O",
+					"page": 54
+				},
+				{
+					"title": "P",
+					"page": 54
+				},
+				{
+					"title": "Q",
+					"page": 55
+				},
+				{
+					"title": "R",
+					"page": 55
+				},
+				{
+					"title": "S",
+					"page": 56
+				},
+				{
+					"title": "T",
+					"page": 57
+				},
+				{
+					"title": "U",
+					"page": 58
+				},
+				{
+					"title": "V",
+					"page": 59
+				},
+				{
+					"title": "W",
+					"page": 59
+				},
+				{
+					"title": "X",
+					"page": 59
+				},
+				{
+					"title": "Z",
+					"page": 59
+				}
+			]
+		}
+	]
+}
