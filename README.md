@@ -8,6 +8,7 @@ Steps:
 
 1. Find a book which not have bookmark (book.pdf).
 2. Create bookmarks file from the content page (bookmark.json). Note the "settings" field.
+https://github.com/kvii/bookmark_demo/blob/12338d28ce98a80bcf232d967dfe2b7c459d6a55/bookmark.json#L27-L29
 3. Execute `pdfcpu bookmarks import book.pdf bookmark.json out.pdf`.
 4. Open "out.pdf".
 
